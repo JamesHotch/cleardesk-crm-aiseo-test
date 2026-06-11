@@ -5,6 +5,9 @@ ClearDesk CRM is a dummy/test website used to measure AI browser and search retr
 Live test site:  
 http://cleardeskcrm.145.241.232.214.sslip.io/
 
+GitHub Pages citation:  
+https://jameshotch.github.io/cleardesk-crm-aiseo-test/
+
 ## Relevant test pages
 
 - [HubSpot Alternative UK](http://cleardeskcrm.145.241.232.214.sslip.io/hubspot-alternative-uk.html)

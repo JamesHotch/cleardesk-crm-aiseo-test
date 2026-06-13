@@ -1,5 +1,7 @@
 # ClearDesk CRM AISEO Test
 
+**Experiment ID:** `CDCRM-AISEO-20260611`
+
 ClearDesk CRM is a dummy/test website used to measure AI browser and search retrieval visibility for CRM-related buyer-intent queries.
 
 Live test site:  
@@ -22,6 +24,7 @@ https://jameshotch.github.io/cleardesk-crm-aiseo-test/
 - ClearDesk CRM GDPR aware CRM UK
 - ClearDesk CRM sales pipeline management UK
 - ClearDesk CRM lead tracking software UK
+- CDCRM-AISEO-20260611
 
 ## Disclaimer
 
